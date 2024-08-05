@@ -4,11 +4,8 @@
 library(forecast)
 #install.packages("trelliscopejs")
 library(trelliscopejs)
-#webshot::install_phantomjs()
 #install.packages("tidyverse")
 library(tidyverse)
-#install.packages("glue")
-library(glue)
 #install.packages("forcats")
 library(forcats)
 # Time Series
@@ -31,18 +28,17 @@ library(recipes)
 library(rsample)
 #install.packages("yardstick")
 library(yardstick) 
-# Modeling
 #install.packages("keras")
 library(keras)
 #install.packages("tidyverse")
 library(tidyverse)
 #install.packages("tsibble")
 #remotes::install_github("tidyverts/tsibble")
-library(tsibble) # Tidy Temporal Data Frames and Tools
+library(tsibble) 
 #install.packages("torch")
 library(torch)
 #install.packages("feasts")
-library(feasts) # Feature Extraction and Statistics for Time Series
+library(feasts)
 #install.packages("tsibbledata")
 library(tsibbledata) # Diverse Datasets for 'tsibble'
 #install.packages("tidymodels")
@@ -55,11 +51,6 @@ library(lubridate)
 library(remotes)
 #install.packages("glmnet")
 library(glmnet)
-#install.packages("baguette")
-library(baguette)
-
-### FIRST METHOD OF FORECAST#####
-### Method ModelTime###
 #install.packages("xgboost")
 library(xgboost)
 #install.packages("earth")
