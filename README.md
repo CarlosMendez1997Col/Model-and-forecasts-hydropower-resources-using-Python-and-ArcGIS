@@ -79,6 +79,8 @@ Data processed in time series formats are available at:
 
 The data for the hydroelectric power plants are from the ONS (Operador Nacional do Sistema Elétrico). Available online in: [ONS website](https://dados.ons.org.br/)
 
+The data used for forecast precipitation and potential evapotranspiration are from the Nasa Earth re-pository, using the Giovanni (Geospatial Interactive Online Visualization ANd aNalysis Infrastructure). Available online in: [Nasa Giovanni Website](https://giovanni.gsfc.nasa.gov/giovanni/)
+
 
 ## Conflict of Interest.
 
