@@ -38,6 +38,24 @@ from arcgis.learn import TimeSeriesModel, prepare_tabulardata
 from arcgis.features import FeatureLayer, FeatureLayerCollection
 ```
 
+### NNAR Neural Networks
+
+```R
+
+library(forecast)
+library(timetk)
+library(dplyr)
+library(tibbletime)
+library(cowplot)
+library(rsample)
+library(keras)
+library(tidyverse)
+library(tsibble) 
+library(modeltime)
+library(readxl)
+```
+
+
 
 
 
