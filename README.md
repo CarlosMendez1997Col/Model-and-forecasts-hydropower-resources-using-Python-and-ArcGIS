@@ -55,7 +55,41 @@ library(modeltime)
 library(readxl)
 ```
 
+## Data acquisition and download
 
+The LSTM and ResCNN neural networks, used information and time series about Hydroelectric Power Plants (HPP):
+
+* Data
+* Useful Volume
+* Useful Volume Percent (%)
+* Affluent Flow
+* Defluent Flow
+* Natural Flow
+* Stored Energy 
+* Affluent Natural Energy
+* Energy Generation
+
+Data processed in time series formats are available at: 
+
+* HPP Capivara: [link](https://arcg.is/1u158D) 
+* HPP Chavantes: [link](https://arcg.is/1O1Wq11)
+* HPP Jurumirim: [link](https://arcg.is/1WTWX)
+
+## Credits and more information
+
+The data for the hydroelectric power plants are from the ONS (Operador Nacional do Sistema Elétrico). Available online in: [ONS website](https://dados.ons.org.br/)
+
+
+## Conflict of Interest.
+
+The authors declare that there is no conflict of interest in the publication of this map and that all authors have approved it for publication.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 
 
