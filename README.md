@@ -57,7 +57,7 @@ library(readxl)
 
 ## Data acquisition and download
 
-The LSTM and ResCNN neural networks, used information and time series about Hydroelectric Power Plants (HPP):
+### The data used for build the time series and the LSTM and ResCNN neural networks, include information about 3 Hydroelectric Power Plants (HPP):
 
 * Data
 * Useful Volume
@@ -75,7 +75,13 @@ Data processed in time series formats are available at:
 * HPP Chavantes: [link](https://arcg.is/1O1Wq11)
 * HPP Jurumirim: [link](https://arcg.is/1WTWX)
 
-## Credits and more information
+### The data used for build the time series and the NNAR neural network, include information of precipitation and potential evapotranspiration. Available in:
+
+Precipitation:[link](https://arcg.is/149qym3)
+
+Potential Evapotranspiration:[link](https://arcg.is/0L9iSy0)
+
+## Credits and repository of data
 
 The data for the hydroelectric power plants are from the ONS (Operador Nacional do Sistema Elétrico). Available online in: [ONS website](https://dados.ons.org.br/)
 
