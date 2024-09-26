@@ -90,7 +90,7 @@ The data used for forecast precipitation and potential evapotranspiration are fr
 
 ## Conflict of Interest.
 
-The authors declare that there is no conflict of interest in the publication of this map and that all authors have approved it for publication.
+The authors declare that there is no conflict of interest in the publication of this data and that all authors have approved it for publication.
 
 ## Contributing
 
