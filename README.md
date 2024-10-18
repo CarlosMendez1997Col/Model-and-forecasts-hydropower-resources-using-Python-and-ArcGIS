@@ -12,7 +12,7 @@ Each section is described below:
 
 ## Prerequisites and libraries
 
-### LSTM and ResCNN Neural Networks
+### LSTM and ResCNN Neural Networks in ArcGIS API for Python
 
 ```python
 
@@ -38,7 +38,7 @@ from arcgis.learn import TimeSeriesModel, prepare_tabulardata
 from arcgis.features import FeatureLayer, FeatureLayerCollection
 ```
 
-### NNAR Neural Networks
+### NNAR Neural Networks in R
 
 ```R
 
