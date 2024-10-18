@@ -1,14 +1,14 @@
-# Models and forecasts in hidrological resources and energy
+# Models and forecasts in hidrological resources and energy using ArcGIS API for Python and Rstudio
 
 ## Description
 
-Modeling and forecasting in hydrological resources and energy using the `LSTM (long short-term memory)` and `ResCNN` neural networks in ArcGIS for Python and R.
+Modeling and forecasting in hydrological resources and energy using the `LSTM (long short-term memory)` and `ResCNN` neural networks, in ArcGIS API for Python and R.
 
 Each section is described below:
 
-* The first section shows the data and files used in the project
-* The second and third sections show the script for the LSTM and ResCNN neural networks in the python language
-* The fourth section shows the NNAR neural network script for predicting future values in R.
+* The first section, indicate how to create a Neural Network Auto Regression (NNAR) in R.
+* The second and third sections, explain how to create a `LSTM (long short-term memory)` and `ResCNN` neural networks in ArcGIS API for Python
+* The fourth section, share the Data, Time Series and Graphs used in this repository
 
 ## Prerequisites and libraries
 
